@@ -8,6 +8,7 @@ public class MyClass {
 		
 		MyClass2 mc2 = new MyClass2();
 		mc2.printName();
+		System.out.println("Class 1 ke neeche");
 
 	}
 
